@@ -1,4 +1,4 @@
-#include "error-codes.func";
+#include "error-codes.fc";
 
 const int workchain = 0;
 
